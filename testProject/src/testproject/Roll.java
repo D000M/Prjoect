@@ -9,13 +9,8 @@ package testproject;
  *
  * @author D00M
  */
-public class TestProject {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        //TODO code application logic h
-    }
-    
+public enum Roll {
+    Attacker(),
+    Witness(),
+    Suspect(),
 }

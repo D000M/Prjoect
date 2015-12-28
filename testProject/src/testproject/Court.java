@@ -9,13 +9,11 @@ package testproject;
  *
  * @author D00M
  */
-public class TestProject {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        //TODO code application logic h
-    }
+public class Court {
+    
+    private String name;
+    private String adress;
+    private Jurist jrsts;
+    private Case cs;
     
 }
